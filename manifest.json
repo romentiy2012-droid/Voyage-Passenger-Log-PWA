@@ -1,0 +1,16 @@
+{
+  "name": "Судовой журнал — учёт рейсов и пассажиров",
+  "short_name": "Судовой журнал",
+  "description": "Учёт рейсов и перевезённых пассажиров: Набиль — Поляна",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1720",
+  "theme_color": "#0f1720",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
